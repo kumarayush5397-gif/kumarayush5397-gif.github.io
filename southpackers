@@ -1,0 +1,1131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>South Packers And Movers of India | Packers and Movers Across India</title>
+<meta name="description" content="South Packers And Movers of India offers professional household shifting, office shifting, packing, loading-unloading, long-distance moving and vehicle transportation across India, Nepal and Bangladesh.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --blue-900:#0A2E5C;
+    --blue-800:#123C6E;
+    --blue-700:#1C4E8C;
+    --blue-600:#255FA4;
+    --blue-500:#2F6FB8;
+    --blue-100:#E7EEF7;
+    --red-600:#C0272D;
+    --red-700:#A31E23;
+    --white:#FFFFFF;
+    --ivory:#F5F7FA;
+    --ink:#101826;
+    --slate:#57606E;
+    --slate-light:#8A93A3;
+    --line:#DEE4ED;
+    --radius-sm:6px;
+    --radius-md:12px;
+    --radius-lg:20px;
+    --shadow-1:0 1px 2px rgba(10,46,92,0.06), 0 1px 1px rgba(10,46,92,0.04);
+    --shadow-2:0 8px 24px rgba(10,46,92,0.12);
+    --shadow-3:0 20px 48px rgba(10,46,92,0.18);
+    --ease:cubic-bezier(.22,.9,.3,1);
+  }
+
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  @media (prefers-reduced-motion: reduce){
+    html{scroll-behavior:auto;}
+    *{animation-duration:0.001ms !important; animation-iteration-count:1 !important; transition-duration:0.001ms !important; scroll-behavior:auto !important;}
+  }
+  body{
+    margin:0;
+    font-family:'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    color:var(--ink);
+    background:var(--ivory);
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+  h1,h2,h3,h4{
+    font-family:'Sora', 'Inter', sans-serif;
+    margin:0;
+    color:var(--blue-900);
+    line-height:1.15;
+    font-weight:700;
+  }
+  p{margin:0;}
+  img{max-width:100%;display:block;}
+  a{color:inherit;text-decoration:none;}
+  button{font-family:inherit;cursor:pointer;}
+  ul{margin:0;padding:0;list-style:none;}
+  section{position:relative;}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 24px;}
+  .eyebrow-tag{
+    display:inline-flex;align-items:center;gap:8px;
+    font-size:13px;font-weight:600;color:var(--blue-600);
+    background:var(--blue-100);padding:6px 14px;border-radius:100px;
+    margin-bottom:16px;
+  }
+  .eyebrow-tag .dot{width:6px;height:6px;border-radius:50%;background:var(--red-600);}
+  .section-head{max-width:620px;margin-bottom:44px;}
+  .section-head h2{font-size:clamp(28px,3.4vw,40px);}
+  .section-head p.lede{margin-top:14px;font-size:17px;color:var(--slate);max-width:520px;}
+  .btn{
+    display:inline-flex;align-items:center;justify-content:center;gap:10px;
+    padding:14px 26px;border-radius:10px;font-weight:600;font-size:15px;
+    border:1.5px solid transparent;transition:transform .25s var(--ease), box-shadow .25s var(--ease), background .25s var(--ease);
+    white-space:nowrap;
+  }
+  .btn-primary{background:var(--red-600);color:var(--white);box-shadow:0 10px 24px rgba(192,39,45,0.3);}
+  .btn-primary:hover{background:var(--red-700);transform:translateY(-2px);box-shadow:0 14px 30px rgba(192,39,45,0.38);}
+  .btn-outline{background:transparent;color:var(--white);border-color:rgba(255,255,255,0.55);}
+  .btn-outline:hover{background:rgba(255,255,255,0.12);transform:translateY(-2px);}
+  .btn-ghost-blue{background:var(--white);color:var(--blue-700);border-color:var(--line);}
+  .btn-ghost-blue:hover{border-color:var(--blue-500);color:var(--blue-800);transform:translateY(-2px);}
+  .btn:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, button:focus-visible{
+    outline:3px solid var(--blue-500); outline-offset:2px;
+  }
+
+  /* ---------- reveal on scroll ---------- */
+  .reveal{opacity:0; transform:translateY(22px); transition:opacity .7s var(--ease), transform .7s var(--ease);}
+  .reveal.in-view{opacity:1; transform:translateY(0);}
+  .reveal-scale{opacity:0; transform:scale(.94); transition:opacity .7s var(--ease), transform .7s var(--ease);}
+  .reveal-scale.in-view{opacity:1; transform:scale(1);}
+  .reveal-left{opacity:0; transform:translateX(-26px); transition:opacity .7s var(--ease), transform .7s var(--ease);}
+  .reveal-left.in-view{opacity:1; transform:translateX(0);}
+
+  /* ================= HEADER ================= */
+  header.site-header{
+    position:sticky; top:0; z-index:100;
+    background:rgba(255,255,255,0.92); backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line);
+  }
+  .header-inner{
+    max-width:1180px;margin:0 auto;padding:14px 24px;
+    display:flex;align-items:center;justify-content:space-between;gap:20px;
+  }
+  .logo{display:flex;align-items:center;gap:10px;}
+  .logo-mark{
+    width:38px;height:38px;border-radius:9px;
+    background:linear-gradient(135deg,var(--blue-700),var(--blue-900));
+    display:flex;align-items:center;justify-content:center;
+    box-shadow:var(--shadow-1);
+  }
+  .logo-mark svg{width:20px;height:20px;}
+  .logo-text{font-family:'Sora',sans-serif;font-weight:700;font-size:16px;color:var(--blue-900);line-height:1.15;}
+  .logo-text span{display:block;font-family:'Inter',sans-serif;font-weight:600;font-size:10.5px;letter-spacing:.04em;color:var(--red-600);}
+  nav.main-nav{display:flex;align-items:center;gap:30px;}
+  nav.main-nav a{font-size:14.5px;font-weight:600;color:var(--slate);transition:color .2s;}
+  nav.main-nav a:hover{color:var(--blue-700);}
+  .header-cta{display:flex;align-items:center;gap:10px;}
+  .header-cta .btn{padding:11px 18px;font-size:14px;}
+  .nav-toggle{display:none;background:none;border:none;padding:8px;}
+  .nav-toggle span, .nav-toggle span::before, .nav-toggle span::after{
+    content:"";display:block;width:22px;height:2px;background:var(--blue-900);border-radius:2px;position:relative;transition:.2s;
+  }
+  .nav-toggle span::before{position:absolute;top:-7px;}
+  .nav-toggle span::after{position:absolute;top:7px;}
+
+  @media (max-width:920px){
+    nav.main-nav{
+      position:fixed; inset:66px 0 0 0; background:var(--white);
+      flex-direction:column; align-items:flex-start; gap:0;
+      padding:10px 24px 24px; transform:translateY(-8px); opacity:0; pointer-events:none;
+      transition:opacity .25s var(--ease), transform .25s var(--ease);
+      border-top:1px solid var(--line);
+    }
+    nav.main-nav.open{opacity:1; transform:translateY(0); pointer-events:auto;}
+    nav.main-nav a{padding:14px 0;width:100%;border-bottom:1px solid var(--line);}
+    .header-cta .btn-ghost-blue{display:none;}
+    .nav-toggle{display:block;}
+  }
+
+  /* ================= HERO ================= */
+  .hero{
+    position:relative;overflow:hidden;
+    background:linear-gradient(180deg,var(--blue-900) 0%, var(--blue-800) 62%, var(--blue-700) 100%);
+    padding:74px 0 0;
+  }
+  .hero::before{
+    content:"";position:absolute;inset:0;
+    background-image:radial-gradient(circle at 18% 20%, rgba(255,255,255,0.08), transparent 45%),
+                      radial-gradient(circle at 85% 15%, rgba(192,39,45,0.18), transparent 40%);
+    pointer-events:none;
+  }
+  .hero-inner{
+    max-width:1180px;margin:0 auto;padding:0 24px;
+    display:grid;grid-template-columns:1.05fr 0.95fr;gap:40px;align-items:center;
+    position:relative;z-index:2;
+  }
+  .hero-copy{padding:36px 0 60px;}
+  .hero-badge{
+    display:inline-flex;align-items:center;gap:8px;color:#CFE0F5;font-size:13px;font-weight:600;
+    background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.16);
+    padding:7px 14px;border-radius:100px;margin-bottom:22px;
+  }
+  .hero-badge .flag-dot{width:7px;height:7px;border-radius:50%;background:var(--red-600);}
+  .hero h1{
+    color:var(--white);font-size:clamp(34px,5vw,52px);letter-spacing:-0.01em;
+  }
+  .hero .tagline{
+    color:#FFD9D9;font-family:'Sora',sans-serif;font-weight:600;font-size:19px;margin-top:14px;
+  }
+  .hero .desc{
+    color:#C7D6EA;font-size:16.5px;margin-top:18px;max-width:480px;
+  }
+  .hero-actions{display:flex;gap:14px;margin-top:32px;flex-wrap:wrap;}
+  .hero-stats{display:flex;gap:30px;margin-top:44px;flex-wrap:wrap;}
+  .hero-stats div b{display:block;color:var(--white);font-family:'Sora',sans-serif;font-size:22px;font-weight:700;}
+  .hero-stats div span{display:block;color:#AFC3DD;font-size:12.5px;margin-top:2px;}
+
+  /* --- 3D truck scene --- */
+  .truck-scene{
+    position:relative;height:360px;display:flex;align-items:flex-end;justify-content:center;
+    perspective:900px;
+  }
+  .road{
+    position:absolute;left:-10%;right:-10%;bottom:38px;height:54px;
+    background:linear-gradient(180deg,#1a3660,#0d2545);
+    transform:rotateX(55deg);
+    border-radius:4px;
+  }
+  .road::before{
+    content:"";position:absolute;top:50%;left:0;right:0;height:4px;transform:translateY(-50%);
+    background-image:repeating-linear-gradient(90deg,rgba(255,255,255,0.55) 0 26px, transparent 26px 52px);
+    animation:roadmove 1.1s linear infinite;
+  }
+  @keyframes roadmove{from{background-position-x:0;}to{background-position-x:-78px;}}
+  .truck-shadow{
+    position:absolute;bottom:26px;width:230px;height:22px;border-radius:50%;
+    background:radial-gradient(ellipse at center, rgba(0,0,0,0.42), transparent 72%);
+    animation:shadowpulse 3.2s ease-in-out infinite;
+  }
+  @keyframes shadowpulse{0%,100%{transform:scaleX(1);opacity:.9;}50%{transform:scaleX(.9);opacity:.65;}}
+  .truck-3d{
+    position:relative;width:260px;height:170px;margin-bottom:44px;
+    transform-style:preserve-3d;
+    animation:trucklift 3.2s ease-in-out infinite;
+  }
+  @keyframes trucklift{0%,100%{transform:translateY(0) rotateY(-14deg);}50%{transform:translateY(-9px) rotateY(-14deg);}}
+  .truck-cab{
+    position:absolute;left:0;bottom:34px;width:78px;height:80px;border-radius:10px 12px 6px 6px;
+    background:linear-gradient(145deg,#F4F6F9,#D8E0EA);
+    box-shadow:inset -8px 0 14px rgba(10,46,92,0.15), var(--shadow-2);
+  }
+  .truck-cab::before{ /* windshield */
+    content:"";position:absolute;top:10px;left:10px;right:10px;height:30px;border-radius:6px;
+    background:linear-gradient(160deg,#8FC3F0,#3E7FC2);
+  }
+  .truck-box{
+    position:absolute;left:70px;bottom:34px;width:170px;height:112px;border-radius:8px;
+    background:linear-gradient(155deg,var(--white) 0%, #E7EEF7 55%, #C9D8EA 100%);
+    box-shadow:inset -14px 0 20px rgba(10,46,92,0.12), var(--shadow-2);
+    border:2px solid rgba(10,46,92,0.06);
+  }
+  .truck-box::before{
+    content:"SOUTH PACKERS";
+    position:absolute;top:38%;left:0;right:0;text-align:center;
+    font-family:'Sora',sans-serif;font-weight:700;font-size:13px;letter-spacing:.02em;color:var(--blue-800);
+  }
+  .truck-box::after{
+    content:"";position:absolute;left:14px;right:14px;bottom:14px;height:4px;border-radius:4px;background:var(--red-600);opacity:.85;
+  }
+  .truck-wheel{
+    position:absolute;bottom:14px;width:34px;height:34px;border-radius:50%;
+    background:radial-gradient(circle at 35% 35%, #4a5568, #10141c 70%);
+    border:4px solid #0b0e14;
+    animation:wheelspin 0.7s linear infinite;
+  }
+  @keyframes wheelspin{from{transform:rotate(0);}to{transform:rotate(360deg);}}
+  .truck-wheel.w1{left:26px;}
+  .truck-wheel.w2{left:172px;}
+  .truck-wheel.w3{left:214px;}
+  .floating-box{
+    position:absolute;width:34px;height:34px;border-radius:6px;
+    background:linear-gradient(145deg,#E8EEF6,#C3D3E8);
+    box-shadow:var(--shadow-1);
+    animation:floatbox 4.5s ease-in-out infinite;
+  }
+  .floating-box::before{content:"";position:absolute;inset:6px;border:1.5px dashed rgba(10,46,92,0.25);border-radius:3px;}
+  .floating-box.fb1{top:6%;left:4%;animation-delay:.2s;}
+  .floating-box.fb2{top:18%;right:2%;width:26px;height:26px;animation-delay:1.1s;}
+  .floating-box.fb3{top:64%;left:-4%;width:22px;height:22px;animation-delay:2s;}
+  @keyframes floatbox{0%,100%{transform:translateY(0) rotate(0deg);}50%{transform:translateY(-14px) rotate(6deg);}}
+
+  @media (max-width:900px){
+    .hero-inner{grid-template-columns:1fr;}
+    .truck-scene{height:250px;order:-1;}
+    .truck-3d{transform:scale(.78) rotateY(-14deg);margin-bottom:10px;}
+  }
+  @media (prefers-reduced-motion: reduce){
+    .truck-3d, .truck-wheel, .road::before, .truck-shadow, .floating-box{animation:none;}
+  }
+
+  /* ================= COVERAGE / MAP ================= */
+  .coverage{
+    background:var(--blue-900);
+    padding:96px 0 110px;
+    color:var(--white);
+    overflow:hidden;
+  }
+  .coverage-grid{display:grid;grid-template-columns:0.95fr 1.05fr;gap:56px;align-items:center;}
+  .coverage .eyebrow-tag{background:rgba(255,255,255,0.08);color:#CFE0F5;}
+  .coverage h2{color:var(--white);font-size:clamp(28px,3.6vw,38px);}
+  .coverage h2 em{font-style:normal;color:#FF8A8F;}
+  .coverage p.lede{color:#B9CBE3;margin-top:16px;font-size:16.5px;max-width:460px;}
+  .route-note{
+    margin-top:20px;font-size:13.5px;color:#8FA6C4;line-height:1.6;
+    border-left:2px solid rgba(255,255,255,0.18);padding-left:14px;
+  }
+  .coverage-badges{display:flex;gap:14px;margin-top:30px;flex-wrap:wrap;}
+  .coverage-badge{
+    display:flex;align-items:center;gap:10px;background:rgba(255,255,255,0.06);
+    border:1px solid rgba(255,255,255,0.14);border-radius:12px;padding:12px 16px;
+  }
+  .coverage-badge .ico{width:30px;height:30px;border-radius:8px;background:rgba(192,39,45,0.22);display:flex;align-items:center;justify-content:center;}
+  .coverage-badge b{display:block;font-size:14px;font-family:'Sora',sans-serif;}
+  .coverage-badge span{display:block;font-size:11.5px;color:#9EB2CE;margin-top:1px;}
+
+  .map-stage{position:relative;height:420px;}
+  .map-card{
+    position:relative;width:100%;height:100%;border-radius:20px;
+    background:linear-gradient(160deg,#123C6E, #0A2E5C 65%);
+    border:1px solid rgba(255,255,255,0.12);
+    box-shadow:0 30px 60px rgba(0,0,0,0.35);
+    overflow:hidden;
+  }
+  .map-card::after{
+    content:"Illustrative route map — not to scale";
+    position:absolute;bottom:10px;right:14px;font-size:10.5px;color:rgba(255,255,255,0.35);
+  }
+  .map-svg{width:100%;height:100%;display:block;}
+  .map-route-line{
+    fill:none;stroke:#FF8A8F;stroke-width:2.4;stroke-dasharray:6 8;
+    stroke-linecap:round;
+    animation:dashmove 2.4s linear infinite;
+  }
+  @keyframes dashmove{to{stroke-dashoffset:-56;}}
+  .map-node circle.pulse{animation:pulsering 2.4s ease-out infinite;}
+  @keyframes pulsering{0%{r:5;opacity:.9;}80%{r:16;opacity:0;}100%{r:16;opacity:0;}}
+  .map-label{font-family:'Sora',sans-serif;font-size:11.5px;font-weight:600;fill:#E7EEF7;}
+  .map-label.small{font-size:9.5px;fill:#AFC3DD;font-weight:500;}
+  @media (prefers-reduced-motion: reduce){
+    .map-route-line{animation:none;}
+    .map-node circle.pulse{animation:none;}
+  }
+  @media (max-width:920px){
+    .coverage-grid{grid-template-columns:1fr;}
+    .map-stage{height:340px;}
+  }
+
+  /* ================= SERVICES ================= */
+  .services{padding:104px 0;background:var(--ivory);}
+  .service-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;}
+  .service-card{
+    position:relative;background:var(--white);border:1px solid var(--line);border-radius:16px;
+    padding:28px 26px 26px;transform-style:preserve-3d;will-change:transform;
+    transition:box-shadow .3s var(--ease), border-color .3s var(--ease);
+  }
+  .service-card:hover{box-shadow:var(--shadow-3);border-color:transparent;}
+  .service-icon{
+    width:52px;height:52px;border-radius:13px;
+    background:linear-gradient(150deg,var(--blue-600),var(--blue-900));
+    display:flex;align-items:center;justify-content:center;margin-bottom:20px;
+    box-shadow:0 10px 20px rgba(10,46,92,0.22);
+    transform:translateZ(24px);
+  }
+  .service-icon svg{width:24px;height:24px;stroke:var(--white);}
+  .service-card h3{font-size:18.5px;transform:translateZ(14px);}
+  .service-card p{margin-top:10px;font-size:14.5px;color:var(--slate);transform:translateZ(10px);}
+  .service-card .tag-num{
+    position:absolute;top:24px;right:26px;font-family:'Sora',sans-serif;font-weight:700;
+    font-size:13px;color:var(--line);
+  }
+  @media (max-width:920px){.service-grid{grid-template-columns:1fr 1fr;}}
+  @media (max-width:600px){.service-grid{grid-template-columns:1fr;}}
+
+  /* ================= HOW IT WORKS ================= */
+  .process{padding:100px 0;background:var(--white);}
+  .process-track{
+    position:relative;display:grid;grid-template-columns:repeat(4,1fr);gap:26px;margin-top:10px;
+  }
+  .process-track::before{
+    content:"";position:absolute;top:34px;left:6%;right:6%;height:2px;
+    background-image:repeating-linear-gradient(90deg, var(--line) 0 10px, transparent 10px 20px);
+  }
+  .process-step{position:relative;padding-top:0;}
+  .step-badge{
+    width:68px;height:68px;border-radius:50%;background:var(--white);
+    border:2px solid var(--blue-600);color:var(--blue-700);
+    display:flex;align-items:center;justify-content:center;
+    font-family:'Sora',sans-serif;font-weight:700;font-size:22px;
+    position:relative;z-index:2;margin-bottom:20px;
+    box-shadow:0 0 0 8px var(--ivory);
+    transition:transform .3s var(--ease), background .3s var(--ease), color .3s var(--ease);
+  }
+  .process-step:hover .step-badge{background:var(--blue-700);color:var(--white);transform:scale(1.06);}
+  .process-step h3{font-size:17.5px;}
+  .process-step p{margin-top:8px;font-size:14px;color:var(--slate);}
+  @media (max-width:900px){
+    .process-track{grid-template-columns:1fr 1fr;row-gap:36px;}
+    .process-track::before{display:none;}
+  }
+  @media (max-width:560px){.process-track{grid-template-columns:1fr;}}
+
+  /* ================= RECENT MOVES ================= */
+  .moves{padding:104px 0;background:var(--ivory);}
+  .move-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;}
+  .move-card{
+    background:var(--white);border-radius:16px;overflow:hidden;border:1px solid var(--line);
+    transition:transform .35s var(--ease), box-shadow .35s var(--ease);
+  }
+  .move-card:hover{transform:translateY(-6px);box-shadow:var(--shadow-3);}
+  .move-photo{
+    position:relative;height:168px;
+    background:repeating-linear-gradient(135deg, #E4EAF2 0 14px, #ECF1F7 14px 28px);
+    display:flex;align-items:center;justify-content:center;
+    border-bottom:1px solid var(--line);
+  }
+  .move-photo .ph-icon{width:40px;height:40px;opacity:.35;}
+  .move-photo .ph-label{
+    position:absolute;bottom:10px;left:10px;background:rgba(10,46,92,0.85);color:#fff;
+    font-size:10.5px;font-weight:600;padding:4px 9px;border-radius:100px;letter-spacing:.02em;
+  }
+  .move-body{padding:18px 20px 22px;}
+  .move-route{display:flex;align-items:center;gap:8px;font-family:'Sora',sans-serif;font-weight:700;font-size:15px;color:var(--blue-900);}
+  .move-route .arrow{color:var(--red-600);font-weight:600;}
+  .move-service{margin-top:6px;font-size:12.5px;color:var(--blue-600);font-weight:600;}
+  .move-desc{margin-top:10px;font-size:13.5px;color:var(--slate);}
+  @media (max-width:920px){.move-grid{grid-template-columns:1fr 1fr;}}
+  @media (max-width:600px){.move-grid{grid-template-columns:1fr;}}
+
+  /* ================= REVIEWS ================= */
+  .reviews{padding:104px 0;background:var(--white);}
+  .review-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;}
+  .review-card{
+    background:var(--ivory);border:1px solid var(--line);border-radius:16px;padding:26px;
+  }
+  .review-stars{color:var(--red-600);font-size:15px;letter-spacing:2px;}
+  .review-quote{margin-top:14px;font-size:14.5px;color:var(--ink);line-height:1.65;}
+  .review-person{display:flex;align-items:center;gap:10px;margin-top:18px;}
+  .review-avatar{width:38px;height:38px;border-radius:50%;background:linear-gradient(150deg,var(--blue-500),var(--blue-800));display:flex;align-items:center;justify-content:center;color:#fff;font-family:'Sora',sans-serif;font-weight:700;font-size:14px;}
+  .review-person b{display:block;font-size:13.5px;}
+  .review-person span{display:block;font-size:11.5px;color:var(--slate-light);}
+  .review-placeholder-note{font-size:10.5px;color:var(--slate-light);margin-top:14px;font-style:italic;}
+  .reviews-cta{text-align:center;margin-top:44px;}
+  @media (max-width:920px){.review-grid{grid-template-columns:1fr 1fr;}}
+  @media (max-width:600px){.review-grid{grid-template-columns:1fr;}}
+
+  /* ================= WHY CHOOSE US ================= */
+  .why{padding:100px 0;background:var(--blue-900);color:var(--white);}
+  .why .eyebrow-tag{background:rgba(255,255,255,0.08);color:#CFE0F5;}
+  .why h2{color:var(--white);}
+  .why-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:44px;}
+  .why-item{
+    display:flex;gap:16px;padding:20px;border-radius:14px;
+    background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);
+  }
+  .why-item .ico{
+    flex:none;width:40px;height:40px;border-radius:10px;background:rgba(192,39,45,0.22);
+    display:flex;align-items:center;justify-content:center;
+  }
+  .why-item .ico svg{width:20px;height:20px;stroke:#FF9195;}
+  .why-item h4{color:var(--white);font-size:15.5px;font-family:'Sora',sans-serif;font-weight:600;}
+  .why-item p{margin-top:6px;font-size:13.5px;color:#AFC3DD;}
+  @media (max-width:920px){.why-grid{grid-template-columns:1fr 1fr;}}
+  @media (max-width:600px){.why-grid{grid-template-columns:1fr;}}
+
+  /* ================= QUOTE FORM ================= */
+  .quote{padding:104px 0;background:var(--ivory);}
+  .quote-panel{
+    background:var(--white);border-radius:22px;border:1px solid var(--line);
+    box-shadow:var(--shadow-2);overflow:hidden;
+    display:grid;grid-template-columns:0.85fr 1.15fr;
+  }
+  .quote-aside{
+    background:linear-gradient(165deg,var(--blue-800),var(--blue-900));
+    color:var(--white);padding:44px 38px;
+  }
+  .quote-aside h3{color:var(--white);font-size:24px;}
+  .quote-aside p{color:#C7D6EA;margin-top:14px;font-size:14.5px;}
+  .quote-aside ul{margin-top:26px;display:flex;flex-direction:column;gap:14px;}
+  .quote-aside li{display:flex;gap:10px;align-items:flex-start;font-size:13.5px;color:#DCE6F3;}
+  .quote-aside li svg{flex:none;width:17px;height:17px;stroke:#FF9195;margin-top:2px;}
+  .quote-form{padding:44px 38px;}
+  .form-row{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+  .field{margin-bottom:16px;}
+  .field label{display:block;font-size:12.5px;font-weight:600;color:var(--slate);margin-bottom:6px;}
+  .field input, .field select, .field textarea{
+    width:100%;padding:12px 14px;border-radius:9px;border:1.5px solid var(--line);
+    font-family:inherit;font-size:14.5px;color:var(--ink);background:var(--white);
+    transition:border-color .2s;
+  }
+  .field input:focus, .field select:focus, .field textarea:focus{border-color:var(--blue-500);outline:none;}
+  .field textarea{resize:vertical;min-height:80px;}
+  .field.has-error input, .field.has-error select, .field.has-error textarea{border-color:var(--red-600);}
+  .field-error{display:none;font-size:11.5px;color:var(--red-600);margin-top:5px;}
+  .field.has-error .field-error{display:block;}
+  .quote-submit{margin-top:6px;width:100%;justify-content:center;}
+  .backend-note{
+    margin-top:14px;font-size:11px;color:var(--slate-light);
+    border:1px dashed var(--line);border-radius:8px;padding:10px 12px;
+  }
+  .success-box{
+    display:none;text-align:center;padding:34px 10px;
+  }
+  .success-box.show{display:block;}
+  .quote-form.hide-form{display:none;}
+  .success-icon{
+    width:58px;height:58px;border-radius:50%;background:var(--blue-100);
+    display:flex;align-items:center;justify-content:center;margin:0 auto 16px;
+  }
+  .success-icon svg{width:28px;height:28px;stroke:var(--blue-700);}
+  .success-box h3{font-size:19px;}
+  .success-box p{margin-top:8px;font-size:14px;color:var(--slate);}
+  @media (max-width:900px){
+    .quote-panel{grid-template-columns:1fr;}
+    .form-row{grid-template-columns:1fr;}
+  }
+
+  /* ================= FOOTER ================= */
+  footer.site-footer{background:#081F3F;color:#B9CBE3;padding:64px 0 28px;}
+  .footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr 1.1fr;gap:36px;}
+  .footer-brand .logo-text{color:var(--white);}
+  .footer-brand p{margin-top:14px;font-size:13.5px;color:#8FA6C4;max-width:280px;}
+  .footer-col h5{color:var(--white);font-family:'Sora',sans-serif;font-size:14px;margin-bottom:16px;}
+  .footer-col ul{display:flex;flex-direction:column;gap:10px;}
+  .footer-col a{font-size:13.5px;color:#AFC3DD;transition:color .2s;}
+  .footer-col a:hover{color:var(--white);}
+  .footer-editable{font-size:12px;color:#5E7699;font-style:italic;}
+  .footer-bottom{
+    margin-top:50px;padding-top:22px;border-top:1px solid rgba(255,255,255,0.08);
+    display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;font-size:12.5px;color:#5E7699;
+  }
+  @media (max-width:900px){.footer-grid{grid-template-columns:1fr 1fr;}}
+  @media (max-width:560px){.footer-grid{grid-template-columns:1fr;}}
+
+  /* ================= WHATSAPP FLOAT ================= */
+  .wa-float{
+    position:fixed;bottom:22px;right:22px;z-index:200;
+    width:58px;height:58px;border-radius:50%;
+    background:#25D366;display:flex;align-items:center;justify-content:center;
+    box-shadow:0 10px 26px rgba(37,211,102,0.45);
+    transition:transform .25s var(--ease);
+  }
+  .wa-float:hover{transform:scale(1.08);}
+  .wa-float svg{width:28px;height:28px;fill:#fff;}
+  .wa-float::before{
+    content:"";position:absolute;inset:0;border-radius:50%;background:#25D366;
+    animation:waping 2.4s ease-out infinite; z-index:-1;
+  }
+  @keyframes waping{0%{transform:scale(1);opacity:.55;}100%{transform:scale(1.7);opacity:0;}}
+  @media (prefers-reduced-motion: reduce){.wa-float::before{animation:none;}}
+
+  ::selection{background:var(--red-600);color:#fff;}
+</style>
+</head>
+<body>
+
+<!-- ================= HEADER ================= -->
+<header class="site-header">
+  <div class="header-inner">
+    <a href="#top" class="logo" aria-label="South Packers And Movers of India home">
+      <span class="logo-mark">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17V7a1 1 0 0 1 1-1h9v11"/><path d="M13 10h4l4 4v3h-8"/><circle cx="7.5" cy="17.5" r="1.7"/><circle cx="17.5" cy="17.5" r="1.7"/></svg>
+      </span>
+      <span class="logo-text">South Packers<br>And Movers<span>OF INDIA — TEMPORARY LOGO</span></span>
+    </a>
+    <nav class="main-nav" id="mainNav">
+      <a href="#services">Services</a>
+      <a href="#coverage">Coverage</a>
+      <a href="#how-it-works">How It Works</a>
+      <a href="#moves">Our Moves</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#quote">Get a Quote</a>
+    </nav>
+    <div class="header-cta">
+      <a href="#quote" class="btn btn-ghost-blue">Get Free Quote</a>
+      <a href="https://wa.me/910000000000" target="_blank" rel="noopener" class="btn btn-primary">WhatsApp Us</a>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false"><span></span></button>
+    </div>
+  </div>
+</header>
+
+<!-- ================= HERO ================= -->
+<section class="hero" id="top">
+  <div class="hero-inner">
+    <div class="hero-copy">
+      <div class="hero-badge reveal in-view"><span class="flag-dot"></span> Packers &amp; Movers Across India</div>
+      <h1 class="reveal in-view" style="transition-delay:.08s">South Packers And Movers of India</h1>
+      <p class="tagline reveal in-view" style="transition-delay:.16s">Moving Your World, Safely.</p>
+      <p class="desc reveal in-view" style="transition-delay:.24s">Professional packing, moving and transportation services across India and selected international routes — handled with care from the first box to the last delivery.</p>
+      <div class="hero-actions reveal in-view" style="transition-delay:.32s">
+        <a href="#quote" class="btn btn-primary">Get a Free Quote</a>
+        <a href="https://wa.me/910000000000?text=Hi%2C%20I%27d%20like%20a%20moving%20quote" target="_blank" rel="noopener" class="btn btn-outline">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><path d="M17.5 14.4c-.3-.1-1.6-.8-1.9-.9-.2-.1-.4-.1-.6.1-.2.3-.7.9-.8 1-.2.2-.3.2-.5.1-.3-.1-1.2-.4-2.2-1.4-.8-.7-1.4-1.6-1.5-1.9-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.1.2-.3.3-.4.1-.2 0-.4 0-.5-.1-.1-.6-1.4-.8-1.9-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.2.3-.9.9-.9 2.1 0 1.2.9 2.4 1 2.6.1.2 1.8 2.8 4.4 3.8.6.3 1.1.4 1.5.5.6.2 1.2.2 1.6.1.5-.1 1.6-.6 1.8-1.3.2-.6.2-1.1.2-1.2-.1-.1-.2-.2-.5-.3z"/><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18a8 8 0 0 1-4.1-1.1l-.3-.2-3.1.8.8-3-.2-.3A8 8 0 1 1 12 20z"/></svg>
+          WhatsApp Us
+        </a>
+      </div>
+      <div class="hero-stats reveal in-view" style="transition-delay:.4s">
+        <div><b>Pan-India</b><span>Household &amp; office moves</span></div>
+        <div><b>Nepal · Bangladesh</b><span>Cross-border experience</span></div>
+        <div><b>Door-to-door</b><span>Pickup to delivery</span></div>
+      </div>
+    </div>
+    <div class="truck-scene" aria-hidden="true">
+      <div class="floating-box fb1"></div>
+      <div class="floating-box fb2"></div>
+      <div class="floating-box fb3"></div>
+      <div class="truck-shadow"></div>
+      <div class="truck-3d">
+        <div class="truck-box"></div>
+        <div class="truck-cab"></div>
+        <div class="truck-wheel w1"></div>
+        <div class="truck-wheel w2"></div>
+        <div class="truck-wheel w3"></div>
+      </div>
+      <div class="road"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= COVERAGE / MAP ================= -->
+<section class="coverage" id="coverage">
+  <div class="wrap coverage-grid">
+    <div>
+      <div class="eyebrow-tag reveal"><span class="dot"></span> Where We Move</div>
+      <h2 class="reveal">From <em>Kashmir</em> to <em>Kanyakumari</em></h2>
+      <p class="lede reveal">Our teams handle relocations across Indian states and cities, plus select international moves for customers relocating to and from neighbouring countries.</p>
+      <div class="route-note reveal">Map shown is a simplified, illustrative graphic used to represent coverage — it is not a precise geographic map and does not list every serviceable location.</div>
+      <div class="coverage-badges reveal">
+        <div class="coverage-badge">
+          <span class="ico">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FF9195" stroke-width="2"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+          </span>
+          <span><b>India</b><span>Domestic relocation</span></span>
+        </div>
+        <div class="coverage-badge">
+          <span class="ico">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FF9195" stroke-width="2"><path d="M3 12h18M12 3v18"/></svg>
+          </span>
+          <span><b>Nepal</b><span>Cross-border moving</span></span>
+        </div>
+        <div class="coverage-badge">
+          <span class="ico">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#FF9195" stroke-width="2"><path d="M3 12h18M12 3v18"/></svg>
+          </span>
+          <span><b>Bangladesh</b><span>Cross-border moving</span></span>
+        </div>
+      </div>
+    </div>
+    <div class="map-stage reveal-scale">
+      <div class="map-card">
+        <svg class="map-svg" viewBox="0 0 420 420" preserveAspectRatio="xMidYMid meet">
+          <!-- stylized abstract landmass shape, illustrative only -->
+          <path d="M210 32 C260 40 270 70 300 90 C330 110 338 140 320 165 C340 185 336 220 312 236 C320 258 302 282 276 288 C270 312 244 330 218 322 C196 344 160 340 148 314 C118 312 104 284 116 258 C92 246 88 212 108 190 C96 164 108 132 138 122 C140 92 168 62 202 58 C200 46 202 36 210 32 Z"
+                fill="#0E3667" stroke="rgba(255,255,255,0.16)" stroke-width="1.5"/>
+
+          <!-- route line Kashmir -> Kanyakumari -->
+          <path class="map-route-line" d="M198 66 C210 120 190 190 214 250 C230 296 204 320 190 330"/>
+
+          <!-- Kashmir node -->
+          <g class="map-node">
+            <circle cx="198" cy="66" r="5" fill="#FF8A8F"/>
+            <circle class="pulse" cx="198" cy="66" r="5" fill="none" stroke="#FF8A8F" stroke-width="2"/>
+            <text class="map-label" x="210" y="62">Kashmir</text>
+          </g>
+          <!-- Kanyakumari node -->
+          <g class="map-node">
+            <circle cx="190" cy="330" r="5" fill="#FF8A8F"/>
+            <circle class="pulse" cx="190" cy="330" r="5" fill="none" stroke="#FF8A8F" stroke-width="2"/>
+            <text class="map-label" x="150" y="352">Kanyakumari</text>
+          </g>
+
+          <!-- mid reference markers (illustrative) -->
+          <circle cx="205" cy="150" r="3" fill="#9EB2CE"/>
+          <text class="map-label small" x="215" y="153">Delhi region</text>
+          <circle cx="200" cy="230" r="3" fill="#9EB2CE"/>
+          <text class="map-label small" x="210" y="233">Bihar region</text>
+
+          <!-- Nepal / Bangladesh side markers -->
+          <g>
+            <line x1="320" y1="120" x2="360" y2="96" stroke="rgba(255,255,255,0.25)" stroke-width="1.5" stroke-dasharray="3 5"/>
+            <circle cx="360" cy="96" r="4" fill="#E7EEF7"/>
+            <text class="map-label small" x="330" y="82">Nepal</text>
+          </g>
+          <g>
+            <line x1="320" y1="190" x2="368" y2="200" stroke="rgba(255,255,255,0.25)" stroke-width="1.5" stroke-dasharray="3 5"/>
+            <circle cx="368" cy="200" r="4" fill="#E7EEF7"/>
+            <text class="map-label small" x="336" y="220">Bangladesh</text>
+          </g>
+        </svg>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= SERVICES ================= -->
+<section class="services" id="services">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow-tag"><span class="dot"></span> What We Do</div>
+      <h2>Moving services built around your belongings</h2>
+      <p class="lede">From a single room to a full office, every move is planned, packed and handled by a dedicated team.</p>
+    </div>
+    <div class="service-grid" id="serviceGrid">
+      <div class="service-card reveal">
+        <span class="tag-num">01</span>
+        <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5 12 3l9 6.5V20a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1Z"/></svg></div>
+        <h3>Household Shifting</h3>
+        <p>Careful packing and moving of home belongings, furniture and appliances to your new address.</p>
+      </div>
+      <div class="service-card reveal" style="transition-delay:.05s">
+        <span class="tag-num">02</span>
+        <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="14" rx="1.5"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></div>
+        <h3>Office Shifting</h3>
+        <p>Coordinated relocation of desks, equipment and files with minimal disruption to your workday.</p>
+      </div>
+      <div class="service-card reveal" style="transition-delay:.1s">
+        <span class="tag-num">03</span>
+        <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M4 10h16M10 4v16"/></svg></div>
+        <h3>Professional Packing</h3>
+        <p>Quality packing materials and techniques suited to fragile, bulky and everyday items alike.</p>
+      </div>
+      <div class="service-card reveal" style="transition-delay:.15s">
+        <span class="tag-num">04</span>
+        <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17v-6l3-4h4l3 4v6"/><path d="M3 17h18M7 17a2 2 0 1 0 4 0M13 17a2 2 0 1 0 4 0"/></svg></div>
+        <h3>Loading &amp; Unloading</h3>
+        <p>Trained staff and the right equipment to load and unload belongings safely at both ends.</p>
+      </div>
+      <div class="service-card reveal" style="transition-delay:.2s">
+        <span class="tag-num">05</span>
+        <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h13M12 5l7 7-7 7"/></svg></div>
+        <h3>Long-Distance Moving</h3>
+        <p>Planned routes and secure transport for moves between cities and states across India.</p>
+      </div>
+      <div class="service-card reveal" style="transition-delay:.25s">
+        <span class="tag-num">06</span>
+        <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="9" width="15" height="9" rx="1.5"/><path d="M16 12h3l3 3v3h-6"/><circle cx="6" cy="19" r="1.6"/><circle cx="17.5" cy="19" r="1.6"/></svg></div>
+        <h3>Vehicle Transportation</h3>
+        <p>Safe transport for cars and two-wheelers alongside your household or office move.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= HOW IT WORKS ================= -->
+<section class="process" id="how-it-works">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow-tag"><span class="dot"></span> The Process</div>
+      <h2>How your move comes together</h2>
+      <p class="lede">A simple four-step process from the first phone call to the final delivery.</p>
+    </div>
+    <div class="process-track">
+      <div class="process-step reveal">
+        <div class="step-badge">1</div>
+        <h3>Book</h3>
+        <p>Tell us about your move — locations, dates and what needs to be moved.</p>
+      </div>
+      <div class="process-step reveal" style="transition-delay:.08s">
+        <div class="step-badge">2</div>
+        <h3>Pack</h3>
+        <p>Your belongings are professionally packed with suitable materials.</p>
+      </div>
+      <div class="process-step reveal" style="transition-delay:.16s">
+        <div class="step-badge">3</div>
+        <h3>Move</h3>
+        <p>Your belongings are transported securely to the destination.</p>
+      </div>
+      <div class="process-step reveal" style="transition-delay:.24s">
+        <div class="step-badge">4</div>
+        <h3>Deliver</h3>
+        <p>Your belongings are unloaded and placed at your new address.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= RECENT MOVES ================= -->
+<section class="moves" id="moves">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow-tag"><span class="dot"></span> Recent Moves</div>
+      <h2>A few moves from our recent work</h2>
+      <p class="lede">Photo placeholders below are ready to be replaced with genuine photos from completed moves.</p>
+    </div>
+    <div class="move-grid">
+      <div class="move-card reveal">
+        <div class="move-photo" role="img" aria-label="Placeholder photo for Delhi to Guwahati move — replace with real photo">
+          <svg class="ph-icon" viewBox="0 0 24 24" fill="none" stroke="#0A2E5C" stroke-width="1.5"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="8.5" cy="10.5" r="1.5"/><path d="M21 16l-5-5-4 4-3-3-6 6"/></svg>
+          <span class="ph-label">Photo placeholder</span>
+        </div>
+        <div class="move-body">
+          <div class="move-route">Delhi <span class="arrow">→</span> Guwahati</div>
+          <div class="move-service">Household Shifting</div>
+          <p class="move-desc">Long-distance household move — description to be replaced with real project details.</p>
+        </div>
+      </div>
+      <div class="move-card reveal" style="transition-delay:.05s">
+        <div class="move-photo" role="img" aria-label="Placeholder photo for Patna to Muzaffarpur move — replace with real photo">
+          <svg class="ph-icon" viewBox="0 0 24 24" fill="none" stroke="#0A2E5C" stroke-width="1.5"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="8.5" cy="10.5" r="1.5"/><path d="M21 16l-5-5-4 4-3-3-6 6"/></svg>
+          <span class="ph-label">Photo placeholder</span>
+        </div>
+        <div class="move-body">
+          <div class="move-route">Patna <span class="arrow">→</span> Muzaffarpur</div>
+          <div class="move-service">Household Shifting</div>
+          <p class="move-desc">Intra-state relocation — description to be replaced with real project details.</p>
+        </div>
+      </div>
+      <div class="move-card reveal" style="transition-delay:.1s">
+        <div class="move-photo" role="img" aria-label="Placeholder photo for Muzaffarpur to Rajgir move — replace with real photo">
+          <svg class="ph-icon" viewBox="0 0 24 24" fill="none" stroke="#0A2E5C" stroke-width="1.5"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="8.5" cy="10.5" r="1.5"/><path d="M21 16l-5-5-4 4-3-3-6 6"/></svg>
+          <span class="ph-label">Photo placeholder</span>
+        </div>
+        <div class="move-body">
+          <div class="move-route">Muzaffarpur <span class="arrow">→</span> Rajgir</div>
+          <div class="move-service">Household Shifting</div>
+          <p class="move-desc">Regional move — description to be replaced with real project details.</p>
+        </div>
+      </div>
+      <div class="move-card reveal" style="transition-delay:.15s">
+        <div class="move-photo" role="img" aria-label="Placeholder photo for India to Nepal move — replace with real photo">
+          <svg class="ph-icon" viewBox="0 0 24 24" fill="none" stroke="#0A2E5C" stroke-width="1.5"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="8.5" cy="10.5" r="1.5"/><path d="M21 16l-5-5-4 4-3-3-6 6"/></svg>
+          <span class="ph-label">Photo placeholder</span>
+        </div>
+        <div class="move-body">
+          <div class="move-route">India <span class="arrow">→</span> Nepal</div>
+          <div class="move-service">Cross-Border Moving</div>
+          <p class="move-desc">International move — description to be replaced with real project details.</p>
+        </div>
+      </div>
+      <div class="move-card reveal" style="transition-delay:.2s">
+        <div class="move-photo" role="img" aria-label="Placeholder photo for India to Bangladesh move — replace with real photo">
+          <svg class="ph-icon" viewBox="0 0 24 24" fill="none" stroke="#0A2E5C" stroke-width="1.5"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="8.5" cy="10.5" r="1.5"/><path d="M21 16l-5-5-4 4-3-3-6 6"/></svg>
+          <span class="ph-label">Photo placeholder</span>
+        </div>
+        <div class="move-body">
+          <div class="move-route">India <span class="arrow">→</span> Bangladesh</div>
+          <div class="move-service">Cross-Border Moving</div>
+          <p class="move-desc">International move — description to be replaced with real project details.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= REVIEWS ================= -->
+<section class="reviews" id="reviews">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow-tag"><span class="dot"></span> Customer Reviews</div>
+      <h2>What customers say (placeholder)</h2>
+      <p class="lede">These are placeholder testimonials. Replace them with genuine customer reviews before publishing.</p>
+    </div>
+    <div class="review-grid">
+      <div class="review-card reveal">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-quote">"[Placeholder review text — replace with a genuine customer testimonial about their experience.]"</p>
+        <div class="review-person">
+          <div class="review-avatar">P1</div>
+          <div><b>Placeholder Name</b><span>Placeholder city</span></div>
+        </div>
+        <p class="review-placeholder-note">Placeholder testimonial — not a real review</p>
+      </div>
+      <div class="review-card reveal" style="transition-delay:.05s">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-quote">"[Placeholder review text — replace with a genuine customer testimonial about their experience.]"</p>
+        <div class="review-person">
+          <div class="review-avatar">P2</div>
+          <div><b>Placeholder Name</b><span>Placeholder city</span></div>
+        </div>
+        <p class="review-placeholder-note">Placeholder testimonial — not a real review</p>
+      </div>
+      <div class="review-card reveal" style="transition-delay:.1s">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-quote">"[Placeholder review text — replace with a genuine customer testimonial about their experience.]"</p>
+        <div class="review-person">
+          <div class="review-avatar">P3</div>
+          <div><b>Placeholder Name</b><span>Placeholder city</span></div>
+        </div>
+        <p class="review-placeholder-note">Placeholder testimonial — not a real review</p>
+      </div>
+    </div>
+    <div class="reviews-cta reveal">
+      <a href="https://g.page/r/REPLACE-WITH-GOOGLE-BUSINESS-PROFILE-ID/review" target="_blank" rel="noopener" class="btn btn-ghost-blue">See More Reviews on Google</a>
+    </div>
+  </div>
+</section>
+
+<!-- ================= WHY CHOOSE US ================= -->
+<section class="why">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow-tag"><span class="dot"></span> Why Choose Us</div>
+      <h2>Built around careful, dependable moves</h2>
+    </div>
+    <div class="why-grid">
+      <div class="why-item reveal">
+        <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span>
+        <div><h4>Experienced Moving Team</h4><p>Staff who understand how to plan and carry out a move smoothly.</p></div>
+      </div>
+      <div class="why-item reveal" style="transition-delay:.05s">
+        <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M4 10h16M10 4v16"/></svg></span>
+        <div><h4>Professional Packing</h4><p>Suitable materials and methods used for different types of items.</p></div>
+      </div>
+      <div class="why-item reveal" style="transition-delay:.1s">
+        <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4.5 8-11V5l-8-3-8 3v6c0 6.5 8 11 8 11Z"/></svg></span>
+        <div><h4>Careful Handling</h4><p>Attention given to fragile and valuable items throughout the move.</p></div>
+      </div>
+      <div class="why-item reveal" style="transition-delay:.15s">
+        <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5 12 3l9 6.5V20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1Z"/></svg></span>
+        <div><h4>Door-to-Door Service</h4><p>Pickup at your current address through to delivery at the new one.</p></div>
+      </div>
+      <div class="why-item reveal" style="transition-delay:.2s">
+        <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h13M12 5l7 7-7 7"/></svg></span>
+        <div><h4>Long-Distance Experience</h4><p>Familiarity with planning moves that cross cities and states.</p></div>
+      </div>
+      <div class="why-item reveal" style="transition-delay:.25s">
+        <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+        <div><h4>Customer-Focused Service</h4><p>Clear communication before, during and after your move.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= QUOTE FORM ================= -->
+<section class="quote" id="quote">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow-tag"><span class="dot"></span> Get Started</div>
+      <h2>Request your free quote</h2>
+      <p class="lede">Share a few details about your move and our team will get back to you.</p>
+    </div>
+    <div class="quote-panel reveal">
+      <div class="quote-aside">
+        <h3>What happens next?</h3>
+        <p>Once you submit the form, our team reviews your requirements and reaches out to confirm details and provide a quote.</p>
+        <ul>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="#FF9195" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg> No obligation, free estimate</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="#FF9195" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg> Quick response from our team</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="#FF9195" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg> Prefer to talk? Use WhatsApp instead</li>
+        </ul>
+      </div>
+      <div>
+        <form class="quote-form" id="quoteForm" novalidate>
+          <div class="form-row">
+            <div class="field" data-field="name">
+              <label for="qf-name">Full name</label>
+              <input type="text" id="qf-name" name="name" placeholder="Your name" autocomplete="name">
+              <div class="field-error">Please enter your name.</div>
+            </div>
+            <div class="field" data-field="phone">
+              <label for="qf-phone">Phone number</label>
+              <input type="tel" id="qf-phone" name="phone" placeholder="10-digit mobile number" autocomplete="tel">
+              <div class="field-error">Please enter a valid phone number.</div>
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="field" data-field="from">
+              <label for="qf-from">Moving from</label>
+              <input type="text" id="qf-from" name="from" placeholder="City / area">
+              <div class="field-error">Please enter the pickup location.</div>
+            </div>
+            <div class="field" data-field="to">
+              <label for="qf-to">Moving to</label>
+              <input type="text" id="qf-to" name="to" placeholder="City / area">
+              <div class="field-error">Please enter the destination.</div>
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="field" data-field="date">
+              <label for="qf-date">Moving date</label>
+              <input type="date" id="qf-date" name="date">
+              <div class="field-error">Please choose a moving date.</div>
+            </div>
+            <div class="field" data-field="type">
+              <label for="qf-type">Type of move</label>
+              <select id="qf-type" name="type">
+                <option value="">Select an option</option>
+                <option>Household Shifting</option>
+                <option>Office Shifting</option>
+                <option>Vehicle Transportation</option>
+                <option>Long-Distance Moving</option>
+                <option>International Move</option>
+                <option>Other</option>
+              </select>
+              <div class="field-error">Please select a move type.</div>
+            </div>
+          </div>
+          <div class="field" data-field="message">
+            <label for="qf-message">Message (optional)</label>
+            <textarea id="qf-message" name="message" placeholder="Any details that would help us prepare your quote"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary quote-submit">Request Free Quote</button>
+          <div class="backend-note">This form currently runs on the front end only. Connect it to a real backend or form API (e.g. an email service or CRM endpoint) to receive submissions.</div>
+        </form>
+        <div class="success-box" id="successBox">
+          <div class="success-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg></div>
+          <h3>Quote request received</h3>
+          <p>Thank you — a placeholder confirmation. Once a backend is connected, your team will follow up shortly by phone or WhatsApp.</p>
+          <a href="#top" class="btn btn-ghost-blue" style="margin-top:18px;" id="successReset">Submit another request</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= FOOTER ================= -->
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="logo-text">South Packers<br>And Movers of India</div>
+        <p>Professional packing, moving and transportation services across India and selected international routes.</p>
+        <p class="footer-editable" style="margin-top:14px;">Logo shown is a temporary text mark — replace with your official logo when available.</p>
+      </div>
+      <div class="footer-col">
+        <h5>Services</h5>
+        <ul>
+          <li><a href="#services">Household Shifting</a></li>
+          <li><a href="#services">Office Shifting</a></li>
+          <li><a href="#services">Professional Packing</a></li>
+          <li><a href="#services">Long-Distance Moving</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Coverage</h5>
+        <ul>
+          <li><a href="#coverage">Across India</a></li>
+          <li><a href="#coverage">Nepal</a></li>
+          <li><a href="#coverage">Bangladesh</a></li>
+          <li><a href="#moves">Recent Moves</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Contact</h5>
+        <ul>
+          <li><a href="tel:+910000000000">+91 00000 00000 <span class="footer-editable">(placeholder)</span></a></li>
+          <li><a href="https://wa.me/910000000000" target="_blank" rel="noopener">WhatsApp us <span class="footer-editable">(placeholder)</span></a></li>
+          <li><a href="mailto:info@southpackersmovers.example">info@southpackersmovers.example <span class="footer-editable">(placeholder)</span></a></li>
+          <li><span class="footer-editable">Address line, City, State, PIN — placeholder</span></li>
+          <li><a href="https://g.page/r/REPLACE-WITH-GOOGLE-BUSINESS-PROFILE-ID" target="_blank" rel="noopener">Google Business Profile <span class="footer-editable">(placeholder link)</span></a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span id="year"></span> South Packers And Movers of India. All rights reserved.</span>
+      <span>Built as a front-end preview — connect real contact details and a backend before going live.</span>
+    </div>
+  </div>
+</footer>
+
+<!-- ================= WHATSAPP FLOAT ================= -->
+<a class="wa-float" href="https://wa.me/910000000000?text=Hi%2C%20I%27d%20like%20a%20moving%20quote" target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp (placeholder number)">
+  <svg viewBox="0 0 24 24"><path d="M17.5 14.4c-.3-.1-1.6-.8-1.9-.9-.2-.1-.4-.1-.6.1-.2.3-.7.9-.8 1-.2.2-.3.2-.5.1-.3-.1-1.2-.4-2.2-1.4-.8-.7-1.4-1.6-1.5-1.9-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.1.2-.3.3-.4.1-.2 0-.4 0-.5-.1-.1-.6-1.4-.8-1.9-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.2.3-.9.9-.9 2.1 0 1.2.9 2.4 1 2.6.1.2 1.8 2.8 4.4 3.8.6.3 1.1.4 1.5.5.6.2 1.2.2 1.6.1.5-.1 1.6-.6 1.8-1.3.2-.6.2-1.1.2-1.2-.1-.1-.2-.2-.5-.3z"/><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18a8 8 0 0 1-4.1-1.1l-.3-.2-3.1.8.8-3-.2-.3A8 8 0 1 1 12 20z"/></svg>
+</a>
+
+<script>
+document.getElementById('year').textContent = new Date().getFullYear();
+
+// Mobile nav toggle
+var navToggle = document.getElementById('navToggle');
+var mainNav = document.getElementById('mainNav');
+navToggle.addEventListener('click', function(){
+  var open = mainNav.classList.toggle('open');
+  navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+});
+mainNav.querySelectorAll('a').forEach(function(a){
+  a.addEventListener('click', function(){
+    mainNav.classList.remove('open');
+    navToggle.setAttribute('aria-expanded','false');
+  });
+});
+
+// Reveal on scroll
+var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+var revealEls = document.querySelectorAll('.reveal, .reveal-scale, .reveal-left');
+if(reduceMotion){
+  revealEls.forEach(function(el){ el.classList.add('in-view'); });
+} else if('IntersectionObserver' in window){
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(entry){
+      if(entry.isIntersecting){
+        entry.target.classList.add('in-view');
+        io.unobserve(entry.target);
+      }
+    });
+  }, {threshold:0.15, rootMargin:'0px 0px -40px 0px'});
+  revealEls.forEach(function(el){ io.observe(el); });
+} else {
+  revealEls.forEach(function(el){ el.classList.add('in-view'); });
+}
+
+// 3D tilt for service and move cards
+if(!reduceMotion && window.matchMedia('(hover:hover)').matches){
+  document.querySelectorAll('.service-card').forEach(function(card){
+    card.addEventListener('mousemove', function(e){
+      var r = card.getBoundingClientRect();
+      var x = (e.clientX - r.left) / r.width - 0.5;
+      var y = (e.clientY - r.top) / r.height - 0.5;
+      card.style.transform = 'perspective(700px) rotateX(' + (-y*8) + 'deg) rotateY(' + (x*8) + 'deg) translateY(-4px)';
+    });
+    card.addEventListener('mouseleave', function(){
+      card.style.transform = 'perspective(700px) rotateX(0) rotateY(0) translateY(0)';
+    });
+  });
+}
+
+// Quote form validation
+var form = document.getElementById('quoteForm');
+var successBox = document.getElementById('successBox');
+
+function setError(fieldName, hasError){
+  var el = form.querySelector('[data-field="' + fieldName + '"]');
+  if(el) el.classList.toggle('has-error', hasError);
+}
+
+form.addEventListener('submit', function(e){
+  e.preventDefault();
+  var name = form.name.value.trim();
+  var phone = form.phone.value.trim();
+  var from = form.from.value.trim();
+  var to = form.to.value.trim();
+  var date = form.date.value.trim();
+  var type = form.type.value.trim();
+
+  var phonePattern = /^[+]?[\d\s-]{10,15}$/;
+
+  var valid = true;
+  if(name.length < 2){ setError('name', true); valid = false; } else { setError('name', false); }
+  if(!phonePattern.test(phone)){ setError('phone', true); valid = false; } else { setError('phone', false); }
+  if(from.length < 2){ setError('from', true); valid = false; } else { setError('from', false); }
+  if(to.length < 2){ setError('to', true); valid = false; } else { setError('to', false); }
+  if(!date){ setError('date', true); valid = false; } else { setError('date', false); }
+  if(!type){ setError('type', true); valid = false; } else { setError('type', false); }
+
+  if(!valid){
+    var firstError = form.querySelector('.has-error');
+    if(firstError) firstError.querySelector('input, select, textarea').focus();
+    return;
+  }
+
+  // NOTE: This is a front-end only simulation.
+  // Connect a real backend or form API here, e.g.:
+  // fetch('https://your-api.example.com/quote-requests', { method:'POST', body: JSON.stringify({name, phone, from, to, date, type, message: form.message.value}) })
+  form.classList.add('hide-form');
+  successBox.classList.add('show');
+});
+
+document.getElementById('successReset').addEventListener('click', function(e){
+  e.preventDefault();
+  form.reset();
+  form.classList.remove('hide-form');
+  successBox.classList.remove('show');
+  window.scrollTo({top: document.getElementById('quote').offsetTop - 90, behavior: reduceMotion ? 'auto' : 'smooth'});
+});
+</script>
+
+</body>
+</html>
